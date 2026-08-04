@@ -24,8 +24,11 @@ I'm building my skills in data analytics and working on projects to turn raw dat
 ---
 
 ## 📂 Projects
-I'm currently building and documenting data analytics projects using Python, SQL, Excel and Power BI. 
-More projects will be added as continue learning and developing my portfolio. 
+### ✈️ Flight Price EDA
+
+Exploratory Data Analysis of flight prices using Python, Pandas, NumPy, Matplotlib and Seaborn.
+
+🔗 [View Project](https://github.com/nalinakshasharma/Flight-price-EDA)
 
 ---
 
