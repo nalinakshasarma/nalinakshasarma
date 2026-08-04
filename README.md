@@ -28,7 +28,7 @@ I'm building my skills in data analytics and working on projects to turn raw dat
 
 Exploratory Data Analysis of flight prices using Python, Pandas, NumPy, Matplotlib and Seaborn.
 
-🔗 [View Project](https://github.com/nalinakshasharma/Flight-price-EDA)
+🔗 [View Project](https://github.com/nalinakshasarma/Flight-price-EDA)
 
 ---
 
