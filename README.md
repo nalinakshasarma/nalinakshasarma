@@ -30,6 +30,11 @@ Exploratory Data Analysis of flight prices using Python, Pandas, NumPy, Matplotl
 
 🔗 [View Project](https://github.com/nalinakshasarma/Flight-price-EDA)
 
+### 🍕 Pizza Sales Analysis — SQL & Power BI
+End-to-end pizza sales analysis using SQL and Power BI, covering sales KPIs, trends, category and size analysis, and best/worst-performing pizzas.
+
+[View Project](https://github.com/nalinakshasharma/Pizza-Sales-Analysis)
+
 ---
 
 ## 🎯 Currently Learning
