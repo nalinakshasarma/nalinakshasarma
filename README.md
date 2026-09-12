@@ -41,6 +41,11 @@ Analyzed a 2,000-row retail sales dataset using MySQL to explore sales performan
 
 🔗 [View Project](https://github.com/nalinakshasarma/Retail-Sales-SQL-Analysis)
 
+### 📊 Sample Superstore Sales & Profitability Analysis - MS Excel
+
+Analyzed a 10,000-row Sample Superstore sales dataset and created an Interactive Excel project featuring pivot reporting, dynamic slicers, and an executive KPI dashboard tracking regional sales performance and profit margins.
+🔗 [View Project](https://github.com/nalinakshasarma/Sample-Superstore-Excel-Analysis)
+
 ---
 
 ## 🎯 Currently Learning
