@@ -35,6 +35,12 @@ End-to-end pizza sales analysis using SQL and Power BI, covering sales KPIs, tre
 
 🔗 [View Project](https://github.com/nalinakshasarma/Pizza-Sales-Analysis)
 
+### 🗄️ Retail Sales Analysis – MySQL
+
+Analyzed a 2,000-row retail sales dataset using MySQL to explore sales performance, customer behavior, category performance, monthly sales trends, and transaction patterns.
+
+🔗 [View Project](https://github.com/nalinakshasarma/Retail-Sales-SQL-Analysis)
+
 ---
 
 ## 🎯 Currently Learning
