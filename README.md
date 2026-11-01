@@ -41,6 +41,15 @@ Analyzed a 2,000-row retail sales dataset using MySQL to explore sales performan
 
 🔗 [View Project](https://github.com/nalinakshasarma/Retail-Sales-SQL-Analysis)
 
+### 📊 Amazon India Sales Analysis Dashboard - MS Excel
+
+- Analyzed 10,000 Amazon India sales records using Microsoft Excel.
+- Built an interactive dashboard using PivotTables, PivotCharts, and slicers.
+- Analyzed sales, profit, product performance, order status, payment methods, fulfillment methods, and geographic performance.
+- Generated actionable business insights and recommendations.
+
+**[View Project Repository](https://github.com/nalinakshasharma/amazon-sales-dashboard)**
+
 ### 📊 Sample Superstore Sales & Profitability Analysis - MS Excel
 
 Analyzed a 10,000-row Sample Superstore sales dataset and created an Interactive Excel project featuring pivot reporting, dynamic slicers, and an executive KPI dashboard tracking regional sales performance and profit margins.
