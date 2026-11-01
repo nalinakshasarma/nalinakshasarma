@@ -48,7 +48,7 @@ Analyzed a 2,000-row retail sales dataset using MySQL to explore sales performan
 - Analyzed sales, profit, product performance, order status, payment methods, fulfillment methods, and geographic performance.
 - Generated actionable business insights and recommendations.
 
-**[View Project Repository](https://github.com/nalinakshasharma/amazon-sales-dashboard)**
+**🔗 [View Project](https://github.com/nalinakshasharma/amazon-sales-dashboard)**
 
 ### 📊 Sample Superstore Sales & Profitability Analysis - MS Excel
 
