@@ -50,6 +50,14 @@ Analyzed a 2,000-row retail sales dataset using MySQL to explore sales performan
 
 **🔗 [View Project](https://github.com/nalinakshasarma/amazon-sales-dashboard)**
 
+### 📊 Supermart Grocery Sales Analysis & Dashboard – MS Excel
+
+Developed an interactive Excel dashboard to analyze 9,994 retail sales records, covering sales performance, product performance, profitability, discounts, and geographic trends.
+
+**Skills:** Microsoft Excel, Data Cleaning, PivotTables, PivotCharts, Slicers, KPI Dashboards, Data Analysis
+
+🔗 [View Project](https://github.com/nalinakshasarma/supermart-grocery-sales-dashboard)
+
 ### 📊 Sample Superstore Sales & Profitability Analysis - MS Excel
 
 Analyzed a 10,000-row Sample Superstore sales dataset and created an Interactive Excel project featuring pivot reporting, dynamic slicers, and an executive KPI dashboard tracking regional sales performance and profit margins.
