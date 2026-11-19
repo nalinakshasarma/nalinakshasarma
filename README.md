@@ -59,10 +59,12 @@ Developed an interactive Excel dashboard to analyze 9,994 retail sales records, 
 **🔗 [View Project](https://github.com/nalinakshasarma/supermart-grocery-sales-dashboard)**
 
 ### 📊 Supermarket Sales Analysis Dashboard - MS Excel
+
 - Analyzed 8,523 supermarket sales records using Microsoft Excel.
 - Performed data analysis using PivotTables, statistical functions, charts and data visualization.
 - Created an interactive dashboard to present sales performance, product category analysis, outlet performance and statistical insights.
 - Identified key business findings and provided actionable recommendations.
+
 **🔗 [View Project](https://github.com/nalinakshasarma/supermarket-sales-analysis-dashboard)**
 
 ### 📊 Sample Superstore Sales & Profitability Analysis - MS Excel
