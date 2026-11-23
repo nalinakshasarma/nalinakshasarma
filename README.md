@@ -6,7 +6,7 @@ I'm building my skills in data analytics and working on projects to turn raw dat
 ---
 
 ## 🛠️ Skills
-- 🐍 **Python** - Pandas, NumPy, Matplotlib
+- 🐍 **Python** - Pandas, NumPy, Matplotlib, Seaborn
 - 🗄️ **SQL** - PostgreSQL, MySQL
 - 📊 **Microsoft Excel**
 - 📈 **Power BI**
