@@ -35,6 +35,12 @@ End-to-end pizza sales analysis using SQL and Power BI, covering sales KPIs, tre
 
 🔗 [View Project](https://github.com/nalinakshasarma/Pizza-Sales-Analysis)
 
+### 🚬 Smoking & Health Analysis Dashboard - Power BI
+- Developed an interactive Power BI dashboard to analyze smoking patterns, patient demographics, and associated health indicators.
+- Explored smoking prevalence, age-wise smoking distribution, diagnosed health conditions, and organ-wise health cases.
+- **Tools:** Power BI, Power Query, DAX.
+- **🔗 [View Project](https://github.com/nalinakshasarma/Smoking-and-Health-Analysis)**
+
 ### 🗄️ Retail Sales Analysis – MySQL
 
 Analyzed a 2,000-row retail sales dataset using MySQL to explore sales performance, customer behavior, category performance, monthly sales trends, and transaction patterns.
